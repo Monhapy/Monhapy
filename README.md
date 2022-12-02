@@ -5,6 +5,7 @@ Game Developer
 --------------
 
 * 🌍  I'm based in İstanbul
+* ✉️  You can contact me at [aymutluberkk@gmail.com](mailto:aymutluberkk@gmail.com)
 
 ### Skills
 
